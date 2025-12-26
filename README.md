@@ -1,4 +1,4 @@
-# Course Management Application
+# Škola jezika - Course Management Application
 
 Desktop aplikacija razvijena u Javi koja omogućava upravljanje kursevima,
 polaznicima i predavačima uz korišćenje relacione baze podataka.
